@@ -1,5 +1,5 @@
 .header-background {
-  background-image: url('/Users/ninaskyttmo/Projects/hacksaw_brushes/resources.html/images/pattern.webp');
+  background-image: url('./resources.html/images/pattern.webp');
 }
 
 h1, h2, h3, p {
